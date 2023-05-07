@@ -1,0 +1,838 @@
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:22:49 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1726.902ms
+moved types parse time: 211ms
+candidates parse time : 2ms
+C# parse time         : 1364ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:23:17 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141.275ms
+moved types parse time: 82ms
+candidates parse time : 3ms
+C# parse time         : 387ms
+candidates check time : 73ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:23:51 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2110.588ms
+moved types parse time: 123ms
+candidates parse time : 2ms
+C# parse time         : 1289ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:23:55 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.343ms
+moved types parse time: 159ms
+candidates parse time : 27ms
+C# parse time         : 445ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:24:29 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2039.232ms
+moved types parse time: 100ms
+candidates parse time : 2ms
+C# parse time         : -1ms
+candidates check time : -1ms
+console write time    : -1ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:24:33 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 126.136ms
+moved types parse time: 72ms
+candidates parse time : 2ms
+C# parse time         : 883ms
+candidates check time : 101ms
+console write time    : 34ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:25:50 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2053.051ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 1081ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:34:38 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1999.689ms
+moved types parse time: 140ms
+candidates parse time : 1ms
+C# parse time         : 1047ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:35:39 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1909.512ms
+moved types parse time: 159ms
+candidates parse time : 7ms
+C# parse time         : 1508ms
+candidates check time : 68ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:38:23 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2126.87ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 1092ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:45:17 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1900.276ms
+moved types parse time: 143ms
+candidates parse time : 1ms
+C# parse time         : 1004ms
+candidates check time : 56ms
+console write time    : 10ms
+
+[api-updater (non-obsolete-error-filter)] 9/21/2022 7:47:36 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2156.134ms
+moved types parse time: 115ms
+candidates parse time : 1ms
+C# parse time         : 1141ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/23/2022 3:24:38 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/jacobmiller/Desktop/Unity Game Design/Alien Shooting/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/jacobmiller/Desktop/Unity Game Design/Alien Shooting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2175.311ms
+moved types parse time: 168ms
+candidates parse time : 2ms
+C# parse time         : 1385ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/23/2022 3:27:06 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/jacobmiller/Desktop/Unity Game Design/Alien Shooting/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/jacobmiller/Desktop/Unity Game Design/Alien Shooting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2428.776ms
+moved types parse time: 126ms
+candidates parse time : 1ms
+C# parse time         : 2361ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/23/2022 4:31:23 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2125.009ms
+moved types parse time: 164ms
+candidates parse time : 2ms
+C# parse time         : 1419ms
+candidates check time : 39ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/23/2022 4:31:42 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100.54ms
+moved types parse time: 127ms
+candidates parse time : 4ms
+C# parse time         : 385ms
+candidates check time : 93ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/23/2022 4:32:01 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2030.718ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 1184ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:11:14 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1865.313ms
+moved types parse time: 164ms
+candidates parse time : 1ms
+C# parse time         : 1448ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:16:04 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2071.697ms
+moved types parse time: 103ms
+candidates parse time : 1ms
+C# parse time         : 1139ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:16:35 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2057.612ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 1126ms
+candidates check time : 65ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:17:13 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2037.081ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 1192ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:17:31 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2099.392ms
+moved types parse time: 65ms
+candidates parse time : 2ms
+C# parse time         : 1181ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:18:03 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.228ms
+moved types parse time: 88ms
+candidates parse time : 3ms
+C# parse time         : 347ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:19:58 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2051.417ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 1120ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:21:04 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 156.94ms
+moved types parse time: 79ms
+candidates parse time : 2ms
+C# parse time         : 378ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/8/2022 1:21:43 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1882.668ms
+moved types parse time: 91ms
+candidates parse time : 1ms
+C# parse time         : 1178ms
+candidates check time : 48ms
+console write time    : 11ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2022 12:22:02 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1898.952ms
+moved types parse time: 166ms
+candidates parse time : 1ms
+C# parse time         : 1478ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2022 12:30:38 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2083.69ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 1135ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/11/2022 3:01:30 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1896.082ms
+moved types parse time: 157ms
+candidates parse time : 1ms
+C# parse time         : 1406ms
+candidates check time : 60ms
+console write time    : 8ms
+
+[api-updater (non-obsolete-error-filter)] 10/11/2022 3:21:59 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1877.352ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 1732ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/12/2022 10:13:50 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1912.152ms
+moved types parse time: 167ms
+candidates parse time : 1ms
+C# parse time         : 1445ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/12/2022 10:46:09 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1994.009ms
+moved types parse time: 166ms
+candidates parse time : 1ms
+C# parse time         : 1096ms
+candidates check time : 36ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2022 4:57:23 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1851.814ms
+moved types parse time: 147ms
+candidates parse time : 1ms
+C# parse time         : 1768ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2022 8:01:17 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1877.888ms
+moved types parse time: 194ms
+candidates parse time : 1ms
+C# parse time         : 1631ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2022 8:06:46 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2151.694ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 1067ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2022 8:07:03 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2002.332ms
+moved types parse time: 84ms
+candidates parse time : 1ms
+C# parse time         : 1105ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2022 8:07:46 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.448ms
+moved types parse time: 91ms
+candidates parse time : 2ms
+C# parse time         : 423ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/22/2022 4:05:20 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1876.339ms
+moved types parse time: 161ms
+candidates parse time : 1ms
+C# parse time         : 1603ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/22/2022 4:40:58 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1826.36ms
+moved types parse time: 160ms
+candidates parse time : 1ms
+C# parse time         : 1333ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/22/2022 4:41:25 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2036.729ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 1070ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2022 8:36:26 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2014.202ms
+moved types parse time: 186ms
+candidates parse time : 2ms
+C# parse time         : 1869ms
+candidates check time : 73ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2022 8:36:53 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2101.507ms
+moved types parse time: 65ms
+candidates parse time : 2ms
+C# parse time         : 1228ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2022 8:38:04 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2204.692ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 1175ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2022 8:38:31 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2214.911ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 1197ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/25/2022 8:52:09 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1899.19ms
+moved types parse time: 184ms
+candidates parse time : 1ms
+C# parse time         : 1636ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/25/2022 8:54:35 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2153.091ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 1301ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/26/2022 5:43:17 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1806.166ms
+moved types parse time: 163ms
+candidates parse time : 1ms
+C# parse time         : 1403ms
+candidates check time : 50ms
+console write time    : 7ms
+
+[api-updater (non-obsolete-error-filter)] 10/26/2022 5:45:12 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2092.604ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 1226ms
+candidates check time : 76ms
+console write time    : 7ms
+
+[api-updater (non-obsolete-error-filter)] 10/26/2022 7:22:17 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2293.446ms
+moved types parse time: 217ms
+candidates parse time : 3ms
+C# parse time         : 1634ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/26/2022 7:37:14 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2042.92ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 1148ms
+candidates check time : 82ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/26/2022 7:38:04 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2092.565ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 1137ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/27/2022 12:16:09 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1940.994ms
+moved types parse time: 165ms
+candidates parse time : 2ms
+C# parse time         : 1464ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/27/2022 4:09:28 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2047.724ms
+moved types parse time: 193ms
+candidates parse time : 2ms
+C# parse time         : 1536ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/28/2022 3:25:33 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1980.644ms
+moved types parse time: 171ms
+candidates parse time : 39ms
+C# parse time         : 1512ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/28/2022 3:50:03 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2228.597ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 1268ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/28/2022 7:07:00 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1888.079ms
+moved types parse time: 168ms
+candidates parse time : 29ms
+C# parse time         : 1436ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/28/2022 7:07:49 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136.725ms
+moved types parse time: 77ms
+candidates parse time : 2ms
+C# parse time         : 381ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/31/2022 8:21:22 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2148.628ms
+moved types parse time: 80ms
+candidates parse time : 3ms
+C# parse time         : 1404ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/31/2022 8:22:01 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2119.551ms
+moved types parse time: 79ms
+candidates parse time : 2ms
+C# parse time         : 2443ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/31/2022 8:23:33 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2026.707ms
+moved types parse time: 94ms
+candidates parse time : 1ms
+C# parse time         : 1108ms
+candidates check time : 79ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 10:15:57 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2115.397ms
+moved types parse time: 222ms
+candidates parse time : 2ms
+C# parse time         : 1567ms
+candidates check time : 65ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 10:16:43 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2036.026ms
+moved types parse time: 120ms
+candidates parse time : 1ms
+C# parse time         : 1183ms
+candidates check time : 65ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 10:27:02 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1954.339ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 1302ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 10:29:01 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2108.256ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 1167ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 11:25:05 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1852.935ms
+moved types parse time: 170ms
+candidates parse time : 1ms
+C# parse time         : 1467ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 11:26:28 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2123.642ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 1209ms
+candidates check time : 68ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/9/2022 11:28:06 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2015.557ms
+moved types parse time: 102ms
+candidates parse time : 1ms
+C# parse time         : 1187ms
+candidates check time : 64ms
+console write time    : 16ms
+
+[api-updater (non-obsolete-error-filter)] 11/28/2022 8:33:51 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1929.255ms
+moved types parse time: 144ms
+candidates parse time : 2ms
+C# parse time         : 1828ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/29/2022 8:40:47 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1928.532ms
+moved types parse time: 159ms
+candidates parse time : 1ms
+C# parse time         : 1451ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/29/2022 8:42:27 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2101.098ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 1257ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/29/2022 8:48:25 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1918.295ms
+moved types parse time: 90ms
+candidates parse time : 1ms
+C# parse time         : 1249ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/29/2022 8:49:55 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2131.408ms
+moved types parse time: 67ms
+candidates parse time : 2ms
+C# parse time         : 1098ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/29/2022 8:51:06 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2092.06ms
+moved types parse time: 118ms
+candidates parse time : 1ms
+C# parse time         : 1567ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/9/2022 6:51:18 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2084.903ms
+moved types parse time: 165ms
+candidates parse time : 1ms
+C# parse time         : 1458ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/10/2022 5:14:07 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1832.491ms
+moved types parse time: 162ms
+candidates parse time : 1ms
+C# parse time         : 1426ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/10/2022 5:16:07 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2124.67ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 1164ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2022 10:42:22 AM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1914.179ms
+moved types parse time: 165ms
+candidates parse time : 1ms
+C# parse time         : 1553ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2022 5:05:03 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1959.072ms
+moved types parse time: 171ms
+candidates parse time : 26ms
+C# parse time         : 1368ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2022 6:21:25 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1916.738ms
+moved types parse time: 156ms
+candidates parse time : 1ms
+C# parse time         : 1439ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2022 7:44:16 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1950.445ms
+moved types parse time: 171ms
+candidates parse time : 2ms
+C# parse time         : 1506ms
+candidates check time : 57ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2022 8:04:38 PM : Starting /Volumes/FSTORAGE/Unity Dowload/Applications/Unity/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2239.153ms
+moved types parse time: 101ms
+candidates parse time : 2ms
+C# parse time         : 1174ms
+candidates check time : 41ms
+console write time    : 0ms
+

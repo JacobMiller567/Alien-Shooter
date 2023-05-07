@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: cfe52581ea7f84e5cac5e24392ad0ccf
+  - enabled: 1
+    path: Assets/Scenes/SpaceShip.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: c10de72db813e49ed8c12c040b5dd336
+  - enabled: 1
+    path: Assets/Scenes/WinGame.unity
+    guid: f741ded7d50b64509b43cc704cec6a3c
+  m_configObjects: {}
